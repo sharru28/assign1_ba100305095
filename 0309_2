@@ -102,6 +102,6 @@
 		<input type="url" id="web"> 
 	</p>	
 
-<input type="button" value="送出">	
+<input type="submit" value="送出">	
 </form>		
 </body>
